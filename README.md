@@ -54,5 +54,3 @@ Sinta-se à vontade para contribuir com melhorias para este projeto. Basta fazer
 
 Licença
 Este projeto está licenciado sob a MIT License.
-
-Este `README.md` foi atualizado de acordo com as informações fornecidas 
