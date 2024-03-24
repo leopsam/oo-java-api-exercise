@@ -40,7 +40,6 @@ GET /holidays/13-02-2024
   "15-11-2024 => Proclamação da República",
   "20-11-2024 => Dia Nacional de Zumbi e da Consciência Negra",
   "25-12-2024 => Natal"
-  "25-12-2024 => Natal"
 ]
   ```
 
